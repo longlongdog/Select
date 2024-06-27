@@ -1,7 +1,7 @@
 [
-  { WarehouseCode: "000001", WarehouseName: "倉庫名称１", WarehouseDivName: "自社標準", UsageDivName: "営業" },
-  { WarehouseCode: "000002", WarehouseName: "倉庫名称２", WarehouseDivName: "自社標準", UsageDivName: "営業" },
-  { WarehouseCode: "000003", WarehouseName: "倉庫名称３", WarehouseDivName: "銀行", UsageDivName: "休業" },
-  { WarehouseCode: "000004", WarehouseName: "倉庫名称４", WarehouseDivName: "銀行", UsageDivName: "休業" },
-  { WarehouseCode: "000005", WarehouseName: "倉庫名称５", WarehouseDivName: "銀行", UsageDivName: "休業" }
+  { "WarehouseCode": "000001", "WarehouseName": "倉庫名称１", "WarehouseDivName": "自社標準", "UsageDivName": "営業" },
+  { "WarehouseCode": "000002", "WarehouseName": "倉庫名称２", "WarehouseDivName": "自社標準", "UsageDivName": "営業" },
+  { "WarehouseCode": "000003", "WarehouseName": "倉庫名称３", "WarehouseDivName": "銀行", "UsageDivName": "休業" },
+  { "WarehouseCode": "000004", "WarehouseName": "倉庫名称４", "WarehouseDivName": "銀行", "UsageDivName": "休業" },
+  { "WarehouseCode": "000005", "WarehouseName": "倉庫名称５", "WarehouseDivName": "銀行", "UsageDivName": "休業" }
 ]
